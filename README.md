@@ -23,6 +23,7 @@ Installation
 
 - For Windows: venv\Scripts\activate
 
+
 3. Install dependencies
 
 - Make sure you have Django installed. If not, you can install it via pip:
